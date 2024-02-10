@@ -1,0 +1,30 @@
+  <ul class='slider'>
+          <li class='item' style="background-image: url('./android.jpg')">
+            <div class='content'>
+              <h2 class='title'>"Android development"</h2>
+              <p class='description'> Lorem ipsum, dolor sit amet consectetur
+              adipisicing elit. Tempore fuga voluptatum, iure corporis inventore
+              praesentium nisi. Id laboriosam ipsam enim.  </p>
+              <button>Read More</button>
+            </div>
+          </li>
+          <li class='item' style="background-image: url('./web.jpg')">
+            <div class='content'>
+              <h2 class='title'>"Web development"</h2>
+              <p class='description'> Lorem ipsum, dolor sit amet consectetur
+              adipisicing elit. Tempore fuga voluptatum, iure corporis inventore
+              praesentium nisi. Id laboriosam ipsam enim.  </p>
+              <button>Read More</button>
+            </div>
+          </li>
+          <li class='item' style="background-image: url('./ios.jpg')">
+            <div class='content'>
+              <h2 class='title'>"ios development"</h2>
+              <p class='description'> Lorem ipsum, dolor sit amet consectetur
+              adipisicing elit. Tempore fuga voluptatum, iure corporis inventore
+              praesentium nisi. Id laboriosam ipsam enim.  </p>
+              <button>Read More</button>
+            </div>
+          </li>
+          
+        </ul>
